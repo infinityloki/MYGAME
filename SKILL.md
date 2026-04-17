@@ -1,4 +1,4 @@
----
+___
 SKILLS 
 • Methodologies: SDLC, Agile/Scrum & Waterfall  
 • Cloud Platform: AWS (EC2, S3, VPC, IAM, SNS, ASG & ELB)  
